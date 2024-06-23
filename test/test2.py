@@ -11,6 +11,6 @@ todos=todo.read_file()
 for todo in todos:
     if st.checkbox(todo):
         todos.remove(todo)
-        st.
+
 
 
